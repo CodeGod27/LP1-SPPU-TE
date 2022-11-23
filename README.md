@@ -1,3 +1,3 @@
 # LP1-SPPU-TE
-contains spos and iot codes running on eclipse ide,
+contains spos(running on eclipse ide) and iot codes ,
 check for src files.
